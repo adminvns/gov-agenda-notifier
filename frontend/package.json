@@ -7,7 +7,7 @@
     "node": "14.x"
   },
   "dependencies": {
-    "@apollo/client": "^3.2.5",
+    "@apollo/client": "^3.6.6",
     "@dnd-kit/core": "^2.1.2",
     "@dnd-kit/sortable": "^2.0.1",
     "@dnd-kit/utilities": "^1.0.3",
