@@ -15,7 +15,7 @@
     "@testing-library/react": "^9.3.2",
     "classnames": "^2.2.6",
     "dayjs": "^1.10.4",
-    "graphql": "^15.4.0",
+    "graphql": "^15.8.0",
     "i18next": "^19.8.4",
     "i18next-browser-languagedetector": "^6.0.1",
     "i18next-http-backend": "^1.0.24",
