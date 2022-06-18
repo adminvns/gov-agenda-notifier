@@ -14,7 +14,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "classnames": "^2.2.6",
-    "dayjs": "^1.10.4",
+    "dayjs": "^1.11.2",
     "graphql": "^15.4.0",
     "i18next": "^19.8.4",
     "i18next-browser-languagedetector": "^6.0.1",
