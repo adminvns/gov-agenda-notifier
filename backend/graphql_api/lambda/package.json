@@ -19,7 +19,7 @@
     "graphql": "^15.3.0",
     "jsonwebtoken": "^8.5.1",
     "jwks-rsa": "^1.12.3",
-    "pg": "^8.3.3",
+    "pg": "^8.7.3",
     "pg-format": "^1.0.4",
     "postgres-migrations": "^5.1.1",
     "twilio": "^3.50.0",
